@@ -1,0 +1,916 @@
+{
+    "anime": [
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "33387"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/80210.jpg",
+        "title": "Ippou Nippon Mukashibanashi"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "32574"
+        },
+        "producers": "TOHO animation, Bones",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/79209.jpg",
+        "title": "Kekkai Sensen: Ousama no Restaurant no Ousama"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "33032"
+        },
+        "producers": "NBCUniversal Entertainment, Hoods Drifters Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/80265.jpg",
+        "title": "Drifters OVA"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33414"
+        },
+        "producers": "NHK",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/80274.jpg",
+        "title": "Otona no Ikkyuu-san"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33241"
+        },
+        "producers": "NHK, Fanworks",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/79864.jpg",
+        "title": "Honobono Log"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "33415"
+        },
+        "producers": "Mainichi Broadcasting System",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/80276.jpg",
+        "title": "Shiritsu Liyon Gakuen"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33398"
+        },
+        "producers": "Kachidoki Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/80245.jpg",
+        "title": "Neko Konogoro"
+      },
+      {
+        "type": "6",
+        "id": {
+          "site": "myanimelist",
+          "id": "33420"
+        },
+        "producers": "Kamikaze Douga",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/80344.jpg",
+        "title": "RESTART POiNTER"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "33493"
+        },
+        "producers": "Next",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/80560.jpg",
+        "title": "Promised Town"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "32989"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/80512.jpg",
+        "title": "King of Prism by Pretty Rhythm Short Anime"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "32380"
+        },
+        "producers": "Half H.P Studio, Studio Deen",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/80582.jpg",
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! OVA"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33118"
+        },
+        "producers": "Kinema Citrus, EMT²",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/79557.jpg",
+        "title": "Kuma Miko Specials"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33157"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/79648.jpg",
+        "title": "Tanaka-kun wa Itsumo Kedaruge Specials"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "33446"
+        },
+        "producers": "Tencent Animation, Haoliners Animation League",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/80437.jpg",
+        "title": "Huyao Xiao Hongniang: Yue Hong"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33569"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/80905.jpg",
+        "title": "Re:Petit kara Hajimeru Isekai Seikatsu"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "33221"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/79823.jpg",
+        "title": "Mobile Suit Gundam Thunderbolt: December Sky"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32950"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/80584.jpg",
+        "title": "RS Keikaku: Rebirth Storage"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32696"
+        },
+        "producers": "Square Enix, AT-X, Age Global Networks, Docomo Anime Store, Yomiuri TV Enterprise, Tokuma Japan Communications, Kanon Sound, Pierrot Plus",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/80009.jpg",
+        "title": "Fukigen na Mononokean"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33173"
+        },
+        "producers": "TOHO animation, Doga Kobo",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/79682.jpg",
+        "title": "Sansha Sanyou Specials"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "33366"
+        },
+        "producers": "Studio 4°C",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/80662.jpg",
+        "title": "Toukiden 2"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "30015"
+        },
+        "producers": "Aniplex, Half H.P Studio, comico, Hakuhodo DY Media Partners, Lawson, C & I entertainment, TMS Entertainment",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/80389.jpg",
+        "title": "ReLIFE"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32379"
+        },
+        "producers": "WOWOW, Mainichi Broadcasting System, Hakusensha, Ultra Super Pictures, LIDENFILMS, Lucent Pictures Entertainment, Docomo Anime Store, Koei Tecmo Games , Crunchyroll, Millepensee, GEMBA",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/79352.jpg",
+        "title": "Berserk (2016)"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33290"
+        },
+        "producers": "Lantis, Pie in The Sky",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/80006.jpg",
+        "title": "Gra-P & Rodeo 2nd Season"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31109"
+        },
+        "producers": "Kodansha, AT-X, DAX Production, KlockWorx , Sony Music Communications, King Records, FUNimation Entertainment, Studio Deen",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/80182.jpg",
+        "title": "Hatsukoi Monster"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31716"
+        },
+        "producers": "Aniplex, Mainichi Broadcasting System, Movic, Visual Art's, Magic Capsule, ASCII Media Works, Bushiroad, Tokyo MX, BS11, 8bit",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/80243.jpg",
+        "title": "Rewrite"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32282"
+        },
+        "producers": "Sentai Filmworks, J.C.Staff",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/79353.jpg",
+        "title": "Shokugeki no Souma: Ni no Sara"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32494"
+        },
+        "producers": "Dentsu, Animax, Mainichi Broadcasting System, Pony Canyon, Kodansha, Tokyo MX, Lawson HMV Entertainment, Animatic, Techno Sound, Ponycan USA, MAPPA",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/80690.jpg",
+        "title": "Days (TV)"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32526"
+        },
+        "producers": "Bandai Visual, Lantis, ASCII Media Works, Bushiroad, FUNimation Entertainment, Sunrise",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/80791.jpg",
+        "title": "Love Live! Sunshine!!"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "32676"
+        },
+        "producers": "TMS Entertainment",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/78423.jpg",
+        "title": "Sore Ike! Anpanman: Omocha no Hoshi no Nanda to Runda"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33606"
+        },
+        "producers": "Toei Animation",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/80825.jpg",
+        "title": "One Piece Film: Gold ~Episode 0~ 711 ver."
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31821"
+        },
+        "producers": "Mainichi Broadcasting System, Magic Capsule, Graphinica, NBCUniversal Entertainment, FUNimation Entertainment, LIDENFILMS",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/80681.jpg",
+        "title": "Arslan Senki (TV): Fuujin Ranbu"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "32281"
+        },
+        "producers": "Kadokawa Shoten, Toho Company, Lawson HMV Entertainment, Amuse, East Japan Marketing & Communications, FUNimation Entertainment, CoMix Wave Films",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/79999.jpg",
+        "title": "Kimi no Na wa."
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33046"
+        },
+        "producers": "Aniplex, Movic, MAGES., Tokyo MX, Hakuhodo DY Music & Pictures, BS11, Lawson, ABC Animation, A-1 Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/79984.jpg",
+        "title": "B-Project: Kodou*Ambitious"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33262"
+        },
+        "producers": "Kachidoki Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/79934.jpg",
+        "title": "Chobitto Zukan"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33274"
+        },
+        "producers": "ILCA",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/79963.jpg",
+        "title": "Onara Gorou"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33558"
+        },
+        "producers": "FUNimation Entertainment, ufotable",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/80723.jpg",
+        "title": "Tales of Zestiria the X: Saiyaku no Jidai"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31953"
+        },
+        "producers": "Kadokawa Shoten, Delfi Sound, Doga Kobo",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/80417.jpg",
+        "title": "New Game!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32664"
+        },
+        "producers": "TMS Entertainment, DAX Production, Gathering",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/80200.jpg",
+        "title": "Bananya"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32729"
+        },
+        "producers": "TMS Entertainment, DAX Production, TOHO animation, ABC Animation, Telecom Animation Film",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/80110.jpg",
+        "title": "Orange"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32772"
+        },
+        "producers": "Audio Planning U, FUNimation Entertainment, Studio Pierrot",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/80793.jpg",
+        "title": "Puzzle & Dragons Cross"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33255"
+        },
+        "producers": "Shogakukan Productions, FUNimation Entertainment, J.C.Staff, Egg Firm",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/80167.jpg",
+        "title": "Saiki Kusuo no Ψ-nan (TV)"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "29758"
+        },
+        "producers": "Magic Capsule, DIVE II Entertainment, J.C.Staff",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/80197.jpg",
+        "title": "Taboo Tattoo"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31229"
+        },
+        "producers": "Frontier Works, Lantis, Kadokawa Shoten, AT-X, Sony Music Communications, Hakuhodo DY Music & Pictures, Yomiuri TV Enterprise, Adores, Heroz, FUNimation Entertainment, Brain's Base, Platinum Vision",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/80923.jpg",
+        "title": "Servamp"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32039"
+        },
+        "producers": "Sanrio, FUNimation Entertainment, Bones",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/78322.jpg",
+        "title": "Show By Rock!! Short!!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32370"
+        },
+        "producers": "TV Tokyo, Aniplex, Dentsu, Shueisha, FUNimation Entertainment, TMS Entertainment",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/80766.jpg",
+        "title": "D.Gray-man Hallow"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32483"
+        },
+        "producers": "Bandai Visual, Lantis, Nihon Ad Systems, Tokyo MX, Shueisha, FUNimation Entertainment, Brain's Base",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/80360.jpg",
+        "title": "Cheer Danshi!!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32828"
+        },
+        "producers": "Toei Video, Kodansha, Shin-Ei Animation, DAX Production, Asmik Ace Entertainment, Yomiuri TV Enterprise, Sumitomo Corporation, TMS Entertainment",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/80546.jpg",
+        "title": "Amaama to Inazuma"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33222"
+        },
+        "producers": "DAX Production, Dream Creation, bilibili, EMT²",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/79824.jpg",
+        "title": "Fudanshi Koukou Seikatsu"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31706"
+        },
+        "producers": "Lantis, DAX Production, Silver Link.",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/80834.jpg",
+        "title": "Fate/kaleid liner Prisma☆Illya 3rei!!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31845"
+        },
+        "producers": "DAX Production, flying DOG, Production IMS",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/80262.jpg",
+        "title": "Masou Gakuen HxH"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "32365"
+        },
+        "producers": "Studio Pierrot",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/77678.jpg",
+        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33037"
+        },
+        "producers": "FUNimation Entertainment, Studio Pierrot",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/80936.jpg",
+        "title": "Tsukiuta. The Animation"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33113"
+        },
+        "producers": "5pb., FUNimation Entertainment, Satelight",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/79983.jpg",
+        "title": "Scared Rider Xechs"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32697"
+        },
+        "producers": "Hobi Animation, project lights, Creators in Pack",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/80549.jpg",
+        "title": "Ozmafia!!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32961"
+        },
+        "producers": "Lantis, Infinite, FUNimation Entertainment, Actas",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/79848.jpg",
+        "title": "Regalia: The Three Sacred Stars"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "33091"
+        },
+        "producers": "Visual Art's, FUNimation Entertainment, David Production",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/80753.jpg",
+        "title": "Planetarian: Chiisana Hoshi no Yume"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33394"
+        },
+        "producers": "Pony Canyon, Bouncy",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/80373.jpg",
+        "title": "Mahou Shoujo? Naria☆Girls"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "10259"
+        },
+        "producers": "Enlight Pictures, B&T",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/80047.jpg",
+        "title": "Da Yu Hai Tang"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31417"
+        },
+        "producers": "Pony Canyon, FUNimation Entertainment, Ponycan USA, Studio Comet",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/79937.jpg",
+        "title": "Binan Koukou Chikyuu Bouei-bu LOVE! LOVE!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31771"
+        },
+        "producers": "flying DOG, J.C.Staff",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/80810.jpg",
+        "title": "Amanchu!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31952"
+        },
+        "producers": "TBS, King Records, feel.",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/80688.jpg",
+        "title": "Kono Bijutsubu ni wa Mondai ga Aru!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32648"
+        },
+        "producers": "Lantis, TBS, FUNimation Entertainment, Diomedea",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/80752.jpg",
+        "title": "Handa-kun"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31764"
+        },
+        "producers": "Imagin, Magic Capsule, Warner Bros., KlockWorx , ASCII Media Works, BS Fuji, Madhouse",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/79531.jpg",
+        "title": "Nejimaki Seirei Senki: Tenkyou no Alderamin"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "32832"
+        },
+        "producers": "Grooove, Ekura Animal",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/80842.jpg",
+        "title": "Kaze no You ni"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32998"
+        },
+        "producers": "Shochiku, Shuka",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/80515.jpg",
+        "title": "91 Days"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "33082"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/79392.jpg",
+        "title": "Kingsglaive: Final Fantasy XV"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33341"
+        },
+        "producers": "TV Tokyo, FUNimation Entertainment, WAO World",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/80679.jpg",
+        "title": "Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33421"
+        },
+        "producers": "Haoliners Animation League",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/80346.jpg",
+        "title": "Hitori no Shita: The Outcast"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "30911"
+        },
+        "producers": "Bandai Visual, Lantis, Bandai Entertainment, Anime Consortium Japan, FUNimation Entertainment, ufotable",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/79271.jpg",
+        "title": "Tales of Zestiria the X"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32171"
+        },
+        "producers": "Grooove, Silver Link.",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/80591.jpg",
+        "title": "Ange Vierge"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32360"
+        },
+        "producers": "Aniplex, Marvelous Entertainment, ABC Animation, A-1 Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/80823.jpg",
+        "title": "Qualidea Code"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32189"
+        },
+        "producers": "FUNimation Entertainment, Lerche",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/80931.jpg",
+        "title": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32301"
+        },
+        "producers": "Orange, Production IMS",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/80341.jpg",
+        "title": "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32182"
+        },
+        "producers": "Warner Bros., KlockWorx , BS Fuji, Hakuhodo DY Music & Pictures, Bones",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/80356.jpg",
+        "title": "Mob Psycho 100"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33028"
+        },
+        "producers": "FUNimation Entertainment, Lerche",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/80932.jpg",
+        "title": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "32947"
+        },
+        "producers": "Aniplex, Dentsu, Kadokawa Shoten, Fuji TV, Kyoraku Industrial Holdings, Kansai Telecasting Corporation, Zero-G",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/80934.jpg",
+        "title": "Battery"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "31231"
+        },
+        "producers": "OLM",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/78818.jpg",
+        "title": "Pokemon the Movie XY&Z: Volcanion to Karakuri no Magiana"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33338"
+        },
+        "producers": "Toei Animation",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/80109.jpg",
+        "title": "One Piece: Heart of Gold"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "31490"
+        },
+        "producers": "Toei Animation",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/79988.jpg",
+        "title": "One Piece Film: Gold"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "31763"
+        },
+        "producers": "Sunrise",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/80429.jpg",
+        "title": "Accel World: Infinite∞Burst"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "32915"
+        },
+        "producers": "Shuka",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/78979.jpg",
+        "title": "Durarara!!x2 Ketsu: Dufufufu!!"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "33033"
+        },
+        "producers": "C-Station",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/80195.jpg",
+        "title": "Starmyu OVA"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33129"
+        },
+        "producers": "Production I.G",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/79584.jpg",
+        "title": "Joker Game: Kuroneko Yoru no Bouken"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "27387"
+        },
+        "producers": "Kinema Citrus",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/66483.jpg",
+        "title": "Under the Dog"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "32366"
+        },
+        "producers": "TV Tokyo, Bandai Namco Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/79704.jpg",
+        "title": "Gintama°: Aizome Kaori-hen"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "31373"
+        },
+        "producers": "Dentsu, Kodansha, Bandai, YTV, Toho Company, OLM, OLM Digital, Sprite Animation Studios",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/78892.jpg",
+        "title": "Rudolf to Ippaiattena"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "31485"
+        },
+        "producers": "Bandai Namco Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/78650.jpg",
+        "title": "Aikatsu Stars! Movie"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "32806"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/78662.jpg",
+        "title": "Aikatsu!: Nerawareta Mahou no Aikatsu Card"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "31757"
+        },
+        "producers": "Aniplex, Kodansha, Shaft",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/80930.jpg",
+        "title": "Kizumonogatari II: Nekketsu-hen"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "30533"
+        },
+        "producers": "Sunrise",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/80901.jpg",
+        "title": "Gundam Build Fighters Try: Island Wars"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "33069"
+        },
+        "producers": "Bandai Visual, Square Enix, Lantis, Orange, Good Smile Company, Q-Tec, Studio 3Hz",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/79605.jpg",
+        "title": "Dimension W Special"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "31722"
+        },
+        "producers": "Aniplex, Dentsu, A-1 Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/79331.jpg",
+        "title": "Nanatsu no Taizai: Seisen no Shirushi"
+      }
+    ]
+}
