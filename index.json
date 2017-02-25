@@ -2,7 +2,7 @@
 
 "years":[{
 	"year":2017
-	seasons:[
+	"seasons":[
 		{
 		"season":"winter"
 		"url":"https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2017-winter.json"
