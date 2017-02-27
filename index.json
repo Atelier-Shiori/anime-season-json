@@ -1,5 +1,22 @@
 {
   "years": [
+  	{
+        "year": 2015,
+        "seasons": [
+          {
+            "season": "winter","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2015-winter.json"
+          },
+  		{
+            "season": "spring","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2015-spring.json"
+          },
+  		{
+            "season": "summer","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2015-summer.json"
+          },
+  		{
+            "season": "fall","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2015-fall.json"
+          }
+        ]
+      },
 	{
       "year": 2016,
       "seasons": [
