@@ -1,5 +1,73 @@
 {
   "years": [
+    	{
+          "year": 2011,
+          "seasons": [
+            {
+              "season": "winter","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2011-winter.json"
+            },
+    		{
+              "season": "spring","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2011-spring.json"
+            },
+    		{
+              "season": "summer","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2011-summer.json"
+            },
+    		{
+              "season": "fall","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2011-fall.json"
+            }
+          ]
+        },
+		{
+          "year": 2012,
+          "seasons": [
+            {
+              "season": "winter","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2012-winter.json"
+            },
+    		{
+              "season": "spring","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2012-spring.json"
+            },
+    		{
+              "season": "summer","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2012-summer.json"
+            },
+    		{
+              "season": "fall","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2012-fall.json"
+            }
+          ]
+        },
+    	{
+          "year": 2013,
+          "seasons": [
+            {
+              "season": "winter","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2013-winter.json"
+            },
+    		{
+              "season": "spring","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2013-spring.json"
+            },
+    		{
+              "season": "summer","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2013-summer.json"
+            },
+    		{
+              "season": "fall","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2013-fall.json"
+            }
+          ]
+        },
+    	{
+          "year": 2014,
+          "seasons": [
+            {
+              "season": "winter","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2014-winter.json"
+            },
+    		{
+              "season": "spring","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2014-spring.json"
+            },
+    		{
+              "season": "summer","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2014-summer.json"
+            },
+    		{
+              "season": "fall","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2014-fall.json"
+            }
+          ]
+        },
   	{
         "year": 2015,
         "seasons": [
