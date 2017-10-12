@@ -113,7 +113,10 @@
         },
 		{
           "season": "summer","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2017-summer.json"
-        }
+        },
+	       {
+              "season": "fall","url": "https://raw.githubusercontent.com/Atelier-Shiori/anime-season-json/master/data/2017-fall.json"
+       }
       ]
     }
   ]
