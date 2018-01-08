@@ -1,0 +1,964 @@
+{
+    "anime": [
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "36444"
+        },
+        "producers": "Doga Kobo",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/87948.jpg",
+        "title": "Touken Ranbu: Hanamaru - Makuai Kaisouroku"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36861"
+        },
+        "producers": "XFLAG, SANZIGEN",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/89169.jpg",
+        "title": "Itazura Majo to Nemuranai Machi"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "35086"
+        },
+        "producers": "Wit Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/88645.jpg",
+        "title": "Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36883"
+        },
+        "producers": "Shodensha",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/89241.jpg",
+        "title": "Wares: Beyond"
+      },
+      {
+        "type": "6",
+        "id": {
+          "site": "myanimelist",
+          "id": "36983"
+        },
+        "producers": "Toei Animation",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/89614.jpg",
+        "title": "Oshiri Tantei: Puputto Fumutto Kaiketsu Dance"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36043"
+        },
+        "producers": "comico, Signal. MD",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/87137.jpg",
+        "title": "Net-juu no Susume Special"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "36106"
+        },
+        "producers": "Wit Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/89417.jpg",
+        "title": "Shingeki no Kyojin: Lost Girls"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36894"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/89278.jpg",
+        "title": "Inazma Delivery: Dougyousha Attack-hen"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "33970"
+        },
+        "producers": "Actas",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/89155.jpg",
+        "title": "Girls und Panzer das Finale"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36932"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/89413.jpg",
+        "title": "Evil or Live Recap"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "36083"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/87210.jpg",
+        "title": "Lostorage Conflated WIXOSS: Missing Link"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36905"
+        },
+        "producers": "Tate Anime",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/89642.jpg",
+        "title": "Mentori"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36947"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/89463.jpg",
+        "title": "Pochitto Hatsumei: Pikachin-Kit"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36954"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89474.jpg",
+        "title": "Break Go!Ga!"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "34471"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/86276.jpg",
+        "title": "Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35073"
+        },
+        "producers": "Grooove, Madhouse",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89562.jpg",
+        "title": "Overlord II"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36626"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/88500.jpg",
+        "title": "Yakiniku-ten Sengoku"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36848"
+        },
+        "producers": "Tencent Animation, bilibili, G.CMay Animation & Film",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/89258.jpg",
+        "title": "Aishen Qiaokeli-ing... 2nd Season"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "34658"
+        },
+        "producers": "Felix Film",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/89829.jpg",
+        "title": "Nekopara"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36480"
+        },
+        "producers": "Hoods Drifters Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/89219.jpg",
+        "title": "Drifters Specials"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "37046"
+        },
+        "producers": "Hoods Drifters Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89841.jpg",
+        "title": "Drifters Specials: Kokuou-sama Goranshin"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "35237"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/84879.jpg",
+        "title": "Hajimete no Gal OVA"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36705"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89834.jpg",
+        "title": "Yuuwaku★Office Lover 2"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36973"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/89583.jpg",
+        "title": "Station Memories!"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36156"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/89781.jpg",
+        "title": "Keifuku-san"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36910"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89297.jpg",
+        "title": "Wu Geng Ji 2nd Season"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "37028"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/89794.jpg",
+        "title": "Panpaka Pants x Lala-chan"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36827"
+        },
+        "producers": "Bushiroad",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/89382.jpg",
+        "title": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36914"
+        },
+        "producers": "ufotable",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/89346.jpg",
+        "title": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36915"
+        },
+        "producers": "Lay-duce",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/89337.jpg",
+        "title": "Fate/Grand Order: Moonlight/Lostroom"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "37031"
+        },
+        "producers": "Production I.G, Shochiku, flying DOG, Mag Garden, Crunchyroll, Wit Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/89797.jpg",
+        "title": "Mahoutsukai no Yome Recap"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "37033"
+        },
+        "producers": "ufotable",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/89806.jpg",
+        "title": "Emiya-san Chi no Kyou no Gohan"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33899"
+        },
+        "producers": "Bandai Namco Games, TROYCA",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/87656.jpg",
+        "title": "IDOLiSH7"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35839"
+        },
+        "producers": "Kadokawa, Madhouse",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/89879.jpg",
+        "title": "Sora yori mo Tooi Basho"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34798"
+        },
+        "producers": "C-Station",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/89877.jpg",
+        "title": "Yuru Camp△"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35298"
+        },
+        "producers": "flying DOG, Grooove, Studio Gokumi, AXsiZ",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/89876.jpg",
+        "title": "Ramen Daisuki Koizumi-san"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36982"
+        },
+        "producers": "Frencel, helo.inc",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/89643.jpg",
+        "title": "Micchiri Neko"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "35120"
+        },
+        "producers": "Aniplex, Dynamic Planning, Science SARU",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89134.jpg",
+        "title": "Devilman: Crybaby"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35589"
+        },
+        "producers": "Genco, Funimation, Studio Gokumi",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/89885.jpg",
+        "title": "Toji no Miko"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36124"
+        },
+        "producers": "Funimation, Studio Deen",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/88366.jpg",
+        "title": "Ito Junji: Collection"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36784"
+        },
+        "producers": "Tomovies",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/88930.jpg",
+        "title": "Hataraku Onii-san!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34279"
+        },
+        "producers": "Aniplex of America, A-1 Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/89883.jpg",
+        "title": "Grancrest Senki"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34382"
+        },
+        "producers": "Lantis, Infinite, Funimation, Passione",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89559.jpg",
+        "title": "Citrus"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34839"
+        },
+        "producers": "Sanrio, Pierrot Plus, Studio Pierrot",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/87520.jpg",
+        "title": "Sanrio Danshi"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "35608"
+        },
+        "producers": "Kyoto Animation",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/88691.jpg",
+        "title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36531"
+        },
+        "producers": "TBS",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/89576.jpg",
+        "title": "Shinkansen Henkei Robo Shinkalion The Animation"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36552"
+        },
+        "producers": "Bandai, OLM, Shin-Ei Animation",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/88334.jpg",
+        "title": "Pikachin-Kit"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36923"
+        },
+        "producers": "A-1 Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/89656.jpg",
+        "title": "Nanatsu no Taizai: Imashime no Fukkatsu Joshou"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "37032"
+        },
+        "producers": "MAPPA",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/89840.jpg",
+        "title": "Garo: Vanishing Line Recap"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33354"
+        },
+        "producers": "NHK, Madhouse",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/89087.jpg",
+        "title": "Cardcaptor Sakura: Clear Card-hen"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35078"
+        },
+        "producers": "Silver Link.",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/89329.jpg",
+        "title": "Mitsuboshi Colors"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35222"
+        },
+        "producers": "Brain's Base",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/88602.jpg",
+        "title": "Gakuen Babysitters"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35330"
+        },
+        "producers": "King Records, Sentai Filmworks, Kamikaze Douga",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/85096.jpg",
+        "title": "Poputepipikku"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35540"
+        },
+        "producers": "A-1 Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/87937.jpg",
+        "title": "Slow Start"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34863"
+        },
+        "producers": "Nitroplus, DMM.com, Doga Kobo",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/89579.jpg",
+        "title": "Zoku Touken Ranbu: Hanamaru"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35860"
+        },
+        "producers": "Shin-Ei Animation",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/89423.jpg",
+        "title": "Karakai Jouzu no Takagi-san"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36548"
+        },
+        "producers": "Twin Engine, Geno Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/89076.jpg",
+        "title": "Kokkoku"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36838"
+        },
+        "producers": "TV Tokyo, Bandai Namco Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89603.jpg",
+        "title": "Gintama.: Shirogane no Tamashii-hen"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36840"
+        },
+        "producers": "Cosmic Ray, Picante Circus, Suiseisha, Tavac, Lilix",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89091.jpg",
+        "title": "25-sai no Joshikousei"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36907"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/89294.jpg",
+        "title": "Nippen no Miko-chan"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35789"
+        },
+        "producers": "TMS Entertainment",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/88489.jpg",
+        "title": "Yowamushi Pedal: Glory Line"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35905"
+        },
+        "producers": "Magic Capsule, Nippon Columbia, Project No.9",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/88426.jpg",
+        "title": "Ryuuou no Oshigoto!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35964"
+        },
+        "producers": "Glovision, King Records, Funimation, Seven Arcs Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/88384.jpg",
+        "title": "Basilisk: Ouka Ninpouchou"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36196"
+        },
+        "producers": "Tsuburaya Productions, Studio PuYUKAI",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/89222.jpg",
+        "title": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36728"
+        },
+        "producers": "Studio A-CAT, On-Lead, Charaction",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/88812.jpg",
+        "title": "Mameneko"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36797"
+        },
+        "producers": "Strawberry Meets Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/88981.jpg",
+        "title": "gdMen"
+      },
+      {
+        "type": "5",
+        "id": {
+          "site": "myanimelist",
+          "id": "36890"
+        },
+        "title": "dMatsu-san"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "37002"
+        },
+        "producers": "NHK",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/89674.jpg",
+        "title": "Uchi no Oochopus"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35988"
+        },
+        "producers": "AZ Creative, Studio Flad",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/87462.jpg",
+        "title": "Dame x Prince Anime Caravan"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36815"
+        },
+        "producers": "Tochigi TV",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/89021.jpg",
+        "title": "Sakura no Chikai: Marronni☆Yell - Higashi no Hichou Shimotsuke-shi wo Yell!"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34497"
+        },
+        "producers": "DIVE II Entertainment, Avex Pictures, Funimation, Silver Link., Connect",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/4/88911.jpg",
+        "title": "Death March kara Hajimaru Isekai Kyousoukyoku"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35997"
+        },
+        "producers": "Hoods Entertainment",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/89330.jpg",
+        "title": "Märchen Mädchen"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34984"
+        },
+        "producers": "Fuji TV, Wit Studio",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/88808.jpg",
+        "title": "Koi wa Ameagari no You ni"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35828"
+        },
+        "producers": "TBS, Grooove, comico, 8bit",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/89345.jpg",
+        "title": "Miira no Kaikata"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35889"
+        },
+        "producers": "Funimation, Satelight",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89412.jpg",
+        "title": "Hakata Tonkotsu Ramens"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36029"
+        },
+        "producers": "NBCUniversal Entertainment Japan, C-Station",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/88796.jpg",
+        "title": "Hakyuu Houshin Engi"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36049"
+        },
+        "producers": "TBS, Tezuka Productions",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/89242.jpg",
+        "title": "Dagashi Kashi 2"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36094"
+        },
+        "producers": "Lerche",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/87220.jpg",
+        "title": "Hakumei to Mikochi"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36108"
+        },
+        "producers": "Pony Canyon, TBS, Magic Capsule, Production IMS",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/87252.jpg",
+        "title": "Takunomi."
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34577"
+        },
+        "producers": "A-1 Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/5/88338.jpg",
+        "title": "Nanatsu no Taizai: Imashime no Fukkatsu"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34964"
+        },
+        "producers": "Mainichi Broadcasting System, Ultra Super Pictures, NBCUniversal Entertainment Japan, LIDENFILMS",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/89312.jpg",
+        "title": "Killing Bites"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35757"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/86476.jpg",
+        "title": "Gin no Guardian 2nd Season"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "35849"
+        },
+        "producers": "Aniplex, Khara, Ultra Super Pictures, Funimation, A-1 Pictures, Trigger",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/10/89016.jpg",
+        "title": "Darling in the FranXX"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36516"
+        },
+        "producers": "Mainichi Broadcasting System, Diomedea",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/89322.jpg",
+        "title": "Beatless"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "36702"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/88714.jpg",
+        "title": "Shingeki no Kyojin Movie 3: Kakusei no Houkou"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "34612"
+        },
+        "producers": "Shueisha, J.C.Staff, Egg Firm",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/2/89348.jpg",
+        "title": "Saiki Kusuo no Ψ-nan 2"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36761"
+        },
+        "producers": "Avex Pictures",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/7/88890.jpg",
+        "title": "Osomatsu-san Short Film Series 2nd Season"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "37047"
+        },
+        "producers": "Silver Link.",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/89848.jpg",
+        "title": "Imouto sae Ireba Ii. (ONA) Specials"
+      },
+      {
+        "type": "2",
+        "id": {
+          "site": "myanimelist",
+          "id": "36688"
+        },
+        "producers": "Production IMS",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/88680.jpg",
+        "title": "Shinmai Maou no Testament Departures"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36847"
+        },
+        "producers": "Hobby Japan, Sentai Filmworks, Bridge",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/9/89129.jpg",
+        "title": "Nanatsu no Bitoku"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "33047"
+        },
+        "producers": "Aniplex, Marvelous, Notes, Shaft",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/89818.jpg",
+        "title": "Fate/Extra Last Encore"
+      },
+      {
+        "type": "4",
+        "id": {
+          "site": "myanimelist",
+          "id": "36833"
+        },
+        "producers": "Kadokawa Shoten, Silver Link.",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/12/89062.jpg",
+        "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai Special"
+      },
+      {
+        "type": "1",
+        "id": {
+          "site": "myanimelist",
+          "id": "36593"
+        },
+        "producers": "Toei Animation",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/89854.jpg",
+        "title": "Hug tto! Precure"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "36077"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/6/89249.jpg",
+        "title": "Macross Δ Movie: Gekijou no Walküre"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "34439"
+        },
+        "image": "https://myanimelist.cdn-dena.com/images/anime/13/89275.jpg",
+        "title": "Code Geass: Hangyaku no Lelouch II - Handou"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "36204"
+        },
+        "producers": "Production I.G",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/8/88601.jpg",
+        "title": "Tokimeki Restaurant☆☆☆  MIRACLE6 Movie"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "35851"
+        },
+        "producers": "Bandai Visual, Lantis, Hakuhodo DY Music & Pictures, Cygames, P.A. Works",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/11/89556.jpg",
+        "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
+      },
+      {
+        "type": "3",
+        "id": {
+          "site": "myanimelist",
+          "id": "36197"
+        },
+        "producers": "Viz Media, Digital Frontier",
+        "image": "https://myanimelist.cdn-dena.com/images/anime/3/89672.jpg",
+        "title": "Infini-T Force Movie: Gatchaman - Saraba Tomo yo"
+      }
+    ]
+}
